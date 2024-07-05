@@ -1,0 +1,17 @@
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\bin\x64\Debug\Nylander Inventory Management System.exe.config
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\bin\x64\Debug\Nylander Inventory Management System.exe
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\bin\x64\Debug\Nylander Inventory Management System.pdb
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\bin\x64\Debug\System.Data.OleDb.dll
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\bin\x64\Debug\System.Data.OleDb.xml
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander_Inventory_Management_System.archivebluebins.resources
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander_Inventory_Management_System.archivedrawers.resources
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander_Inventory_Management_System.home.resources
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander_Inventory_Management_System.archiveselector.resources
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander_Inventory_Management_System.generalinventory.resources
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander_Inventory_Management_System.Properties.Resources.resources
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander Inventory Management System.csproj.GenerateResource.cache
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander.4B1347B4.Up2Date
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander Inventory Management System.exe
+C:\Users\pjbal\Desktop\Nylander App Stuff\Nylander Inventory Management System\Nylander Inventory Management System\obj\x64\Debug\Nylander Inventory Management System.pdb
